@@ -14,6 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
+// https://yeasy.gitbooks.io/blockchain_guide/app_dev/chaincode_example01.html
 package main
 
 import (
