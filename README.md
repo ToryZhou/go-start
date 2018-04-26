@@ -22,4 +22,5 @@ Setup GOROOT //go的安装目录
 ```
 
 ### 5.设置运行目录到项目地址
-Configure GOPATH //项目path设置项目所在目录
+Configure GOPATH //项目path设置项目所在目录<br>
+The Go path is used to resolve import statements.
