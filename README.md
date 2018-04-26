@@ -23,4 +23,8 @@ Setup GOROOT //go的安装目录
 
 ### 5.设置运行目录到项目地址
 Configure GOPATH //项目path设置项目所在目录<br>
-The Go path is used to resolve import statements.
+The Go path is used to resolve import statements.<br>
+go get {import}, To download the import into the GO path
+```
+go get github.com/hyperledger/fabric/core/chaincode/shim
+```
