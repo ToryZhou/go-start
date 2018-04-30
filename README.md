@@ -1,7 +1,4 @@
-# Welcome to go start
-
-素材来源于
-[菜鸟教程](http://www.runoob.com/go)
+#### Welcome to go start
 
 # Idea config guide
 ### 1.在idea安装 go 语言插件<br>
@@ -30,3 +27,7 @@ go get {import}, To download the import into the GO path
 go env GOPATH
 go get github.com/hyperledger/fabric/core/chaincode/shim
 ```
+
+素材来源于
+- [菜鸟教程](http://www.runoob.com/go)
+- [go-training](https://github.com/go-training/training)
