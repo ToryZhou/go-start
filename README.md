@@ -1,5 +1,9 @@
 #### Welcome to go start
 
+- Web 时代是Java
+- Machine Learning 时代是Python
+- Block Chain 时代是 Golang
+
 # Idea config guide
 ### 1.在idea安装 go 语言插件<br>
 settings->plugins->browse repositories->go->install
