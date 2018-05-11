@@ -4,7 +4,7 @@
 - Machine Learning 时代是Python
 - Block Chain 时代是 Golang
 
-埋一个从青铜到王者的坑：语法->应用->算法->设计模式->区块链
+语法->应用->算法->设计模式->区块链
 
 # Idea config guide
 ### 1.在idea安装 go 语言插件<br>
